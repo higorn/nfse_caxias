@@ -3,7 +3,7 @@
 ## Ambientes
 
 ### Homologação
-#### Portal:        https://nfsehomol.caxias.rs.gov.br/portal
+#### Portal: https://nfsehomol.caxias.rs.gov.br/portal
 #### Web Services: https://nfsehomol.caxias.rs.gov.br/Servicos
 #### WSDL: https://nfsehomol.caxias.rs.gov.br/Servicos?wsdl
 
